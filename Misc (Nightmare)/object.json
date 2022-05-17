@@ -1,0 +1,21 @@
+{
+    "id": "ryder17z.music.nightmare",
+    "authors": [
+        "RizkeyG"
+    ],
+    "version": "1.0",
+    "objectType": "music",
+    "properties": {
+        "tracks": [
+            {
+                "source": "nightmare.wav",
+                "name": "The Asylum"
+            }
+        ]
+    },
+    "strings": {
+        "name": {
+            "en-GB": "Nightmare style"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "ryder17z.music.space",
+    "authors": [
+        "Doxent Zsigmond"
+    ],
+    "version": "1.0",
+    "objectType": "music",
+    "properties": {
+        "tracks": [
+            {
+                "source": "mysterium.wav",
+                "name": "Mysterium"
+            }
+        ]
+    },
+    "strings": {
+        "name": {
+            "en-GB": "Mystery style"
+        }
+    }
+}

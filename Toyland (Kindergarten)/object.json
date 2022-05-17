@@ -1,0 +1,21 @@
+{
+    "id": "ryder17z.music.toyland",
+    "authors": [
+        "gurdonark"
+    ],
+    "version": "1.0",
+    "objectType": "music",
+    "properties": {
+        "tracks": [
+            {
+                "source": "kindergarten.wav",
+                "name": "Little PEnguin"
+            }
+        ]
+    },
+    "strings": {
+        "name": {
+            "en-GB": "Kindergarten style"
+        }
+    }
+}

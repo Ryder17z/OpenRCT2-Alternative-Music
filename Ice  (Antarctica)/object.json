@@ -1,0 +1,21 @@
+{
+    "id": "ryder17z.music.ice1",
+    "authors": [
+        "reusenoise"
+    ],
+    "version": "1.0",
+    "objectType": "music",
+    "properties": {
+        "tracks": [
+            {
+                "source": "antarctica.wav",
+                "name": "Ouverture"
+            }
+        ]
+    },
+    "strings": {
+        "name": {
+            "en-GB": "Antarctica style"
+        }
+    }
+}
